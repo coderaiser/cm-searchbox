@@ -1,6 +1,6 @@
 {
   "name": "cm-searchbox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CodeMirror searchbox",
   "main": "lib/searchbox.js",
   "scripts": {
