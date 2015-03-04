@@ -1,6 +1,6 @@
 # CodeMirror Searchbox
 
-Addon for [CodeMirror](http://codemirror.net) for search and replace.
+Addon for [CodeMirror](http://codemirror.net) for search and replace, same as [Ace](http://ace.c9.io/ "Ace") has.
 
 ![searchbox](https://raw.githubusercontent.com/coderaiser/cm-searchbox/master/img/searchbox.png "CodeMirror Searchbox")
 
