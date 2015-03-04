@@ -10,7 +10,7 @@ Addon for [CodeMirror](http://codemirror.net "CodeMirror") for search and replac
 bower i cm-searchbox --save
 ```
 
-# Hot to use?
+# How to use?
 
 ```js
 var cm = CodeMirror(document.body, {
