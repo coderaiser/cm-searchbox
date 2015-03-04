@@ -7,7 +7,8 @@ Addon for [CodeMirror](http://codemirror.net "CodeMirror") for search and replac
 # Install
 
 ```
-bower i cm-searchbox --save
+bower i cm-searchbox --save # or
+npm i cm-searchbox --save
 ```
 
 # How to use?
