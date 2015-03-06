@@ -1,3 +1,14 @@
+2015.03.06, v1.0.6
+
+fix:
+- (searchbox) replaceAndFindNext: this.editor -> this.replace
+- (searchbox) wrong cursor when new find circle
+
+feature:
+- (package) v1.0.5
+- (gitignore) rm
+
+
 2015.03.05, v1.0.5
 
 fix:
