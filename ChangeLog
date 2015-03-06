@@ -1,3 +1,9 @@
+2015.03.06, v1.0.7
+
+fix:
+- (searchbox) replace when selection is empty string
+
+
 2015.03.06, v1.0.6
 
 fix:
