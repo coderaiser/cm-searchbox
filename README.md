@@ -10,7 +10,6 @@ Addon for [CodeMirror](http://codemirror.net "CodeMirror") for search and replac
 # Install
 
 ```
-bower i cm-searchbox --save # or
 npm i cm-searchbox --save
 ```
 
@@ -21,6 +20,8 @@ var cm = CodeMirror(document.body, {
     searchbox: true
 });
 ```
+
+You can find more advanced usage example in [wiki](https://github.com/coderaiser/cm-searchbox/wiki).
 
 ## License
 
